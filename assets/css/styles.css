@@ -6,7 +6,7 @@
 
 .container {
   display: flex;
-  max-width: 70%;
+  max-width: 50%;
   margin: 0 auto;
   background-image: url(https://separateweb.com/niwax-demo/images/banner/niwax-lpbg.jpg);
   background-size: cover;
