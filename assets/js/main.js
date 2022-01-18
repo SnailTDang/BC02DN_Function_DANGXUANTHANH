@@ -185,7 +185,7 @@ const remainKwh = 1300;
 const first50KwhCost = first50Kwh * 50;
 const second50KwhCost = second50Kwh * 50;
 const third50KwhCost = third50Kwh * 100;
-const fourth50KwhCost = third50Kwh * 150;
+const fourth50KwhCost = fourth50Kwh * 150;
 
 function electricBill() {
   let electricCount = Number(electricNumber.value);
