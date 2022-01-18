@@ -157,6 +157,5 @@ li.active span {
 }
 
 .open {
-  transition: all 0.5s linear;
   display: block !important;
 }
